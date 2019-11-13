@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangBang", "BangBang\BangBang.csproj", "{2E3203A6-41B4-48C1-9429-010605F85342}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BangBangDomain", "BangBangDomain\BangBangDomain.csproj", "{BDB4AC14-B9CB-4576-A04F-352B215C5773}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{2E3203A6-41B4-48C1-9429-010605F85342}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E3203A6-41B4-48C1-9429-010605F85342}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E3203A6-41B4-48C1-9429-010605F85342}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E3203A6-41B4-48C1-9429-010605F85342}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDB4AC14-B9CB-4576-A04F-352B215C5773}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDB4AC14-B9CB-4576-A04F-352B215C5773}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDB4AC14-B9CB-4576-A04F-352B215C5773}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDB4AC14-B9CB-4576-A04F-352B215C5773}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {52E769E1-B74B-49F1-BFC9-F7C26FB3431C}
+	EndGlobalSection
+EndGlobal
