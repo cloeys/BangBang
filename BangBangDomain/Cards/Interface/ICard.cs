@@ -7,6 +7,7 @@ namespace BangBangDomain.Cards.Interface
         CardSuit Suit { get; set;  }
         CardTypeEnum CardType { get; }
         string Name { get; }
+        string Description { get; }
         void PlayCard(Player player);
     }
 }
